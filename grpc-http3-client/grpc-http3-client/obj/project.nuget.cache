@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "RiiuZmcOrWu5ggJTte/KBiWzo4bj2Trl9k/ERIJ/dFZeUgJ0f9yD9T/ZKu/VyZ0LSWwZpupYFeaIY8Wo69S4xg==",
+  "success": true,
+  "projectFilePath": "/Users/micahkimel/Projects/grpc-http3-client/grpc-http3-client/grpc-http3-client.csproj",
+  "expectedPackageFiles": [
+    "/Users/micahkimel/.nuget/packages/google.protobuf/3.23.4/google.protobuf.3.23.4.nupkg.sha512",
+    "/Users/micahkimel/.nuget/packages/grpc.core.api/2.55.0/grpc.core.api.2.55.0.nupkg.sha512",
+    "/Users/micahkimel/.nuget/packages/grpc.net.client/2.55.0/grpc.net.client.2.55.0.nupkg.sha512",
+    "/Users/micahkimel/.nuget/packages/grpc.net.common/2.55.0/grpc.net.common.2.55.0.nupkg.sha512",
+    "/Users/micahkimel/.nuget/packages/grpc.tools/2.56.2/grpc.tools.2.56.2.nupkg.sha512",
+    "/Users/micahkimel/.nuget/packages/microsoft.extensions.logging.abstractions/3.0.3/microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "/Users/micahkimel/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

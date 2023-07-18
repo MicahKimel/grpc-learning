@@ -1,0 +1,21 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "grpc_http3_client.Protos";
+
+import "google/protobuf/timestamp.proto";
+package message;
+
+// The message service definition
+service Message {
+  // Sends a message
+  rpc Send (RequestMessage) returns (MessageReply);
+}
+
+message RequestMessage {
+  string _data = 1;
+  google.protobuf.Timestamp _sendTime=2;
+}
+
+message MessageReply {
+  google.protobuf.Timestamp _receivedTime=1;
+}

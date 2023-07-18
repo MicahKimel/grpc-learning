@@ -1,0 +1,4 @@
+﻿<Properties StartupConfiguration="{11BE5072-052D-490C-B232-513C7ECA5D9B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.grpc-http3-client FirstBuild="True" />
+</Properties>

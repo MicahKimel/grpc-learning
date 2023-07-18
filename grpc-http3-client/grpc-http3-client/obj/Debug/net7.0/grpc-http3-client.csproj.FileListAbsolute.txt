@@ -1,0 +1,5 @@
+/Users/micahkimel/Projects/grpc-http3-client/grpc-http3-client/obj/Debug/net7.0/grpc-http3-client.csproj.AssemblyReference.cache
+/Users/micahkimel/Projects/grpc-http3-client/grpc-http3-client/obj/Debug/net7.0/grpc-http3-client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/micahkimel/Projects/grpc-http3-client/grpc-http3-client/obj/Debug/net7.0/grpc-http3-client.AssemblyInfoInputs.cache
+/Users/micahkimel/Projects/grpc-http3-client/grpc-http3-client/obj/Debug/net7.0/grpc-http3-client.AssemblyInfo.cs
+/Users/micahkimel/Projects/grpc-http3-client/grpc-http3-client/obj/Debug/net7.0/grpc-http3-client.csproj.CoreCompileInputs.cache
