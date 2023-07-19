@@ -1,0 +1,6 @@
+module Pods_swift_grpc {
+  umbrella header "Pods-swift-grpc-umbrella.h"
+
+  export *
+  module * { export * }
+}

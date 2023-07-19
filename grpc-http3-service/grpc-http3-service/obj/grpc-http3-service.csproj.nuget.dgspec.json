@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/micahkimel/Projects/grpc-http3-service/grpc-http3-service/grpc-http3-service.csproj": {}
+    "/Users/micahkimel/Projects/grpc-learning/grpc-http3-service/grpc-http3-service/grpc-http3-service.csproj": {}
   },
   "projects": {
-    "/Users/micahkimel/Projects/grpc-http3-service/grpc-http3-service/grpc-http3-service.csproj": {
+    "/Users/micahkimel/Projects/grpc-learning/grpc-http3-service/grpc-http3-service/grpc-http3-service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/micahkimel/Projects/grpc-http3-service/grpc-http3-service/grpc-http3-service.csproj",
+        "projectUniqueName": "/Users/micahkimel/Projects/grpc-learning/grpc-http3-service/grpc-http3-service/grpc-http3-service.csproj",
         "projectName": "grpc-http3-service",
-        "projectPath": "/Users/micahkimel/Projects/grpc-http3-service/grpc-http3-service/grpc-http3-service.csproj",
+        "projectPath": "/Users/micahkimel/Projects/grpc-learning/grpc-http3-service/grpc-http3-service/grpc-http3-service.csproj",
         "packagesPath": "/Users/micahkimel/.nuget/packages/",
-        "outputPath": "/Users/micahkimel/Projects/grpc-http3-service/grpc-http3-service/obj/",
+        "outputPath": "/Users/micahkimel/Projects/grpc-learning/grpc-http3-service/grpc-http3-service/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/micahkimel/.nuget/NuGet/NuGet.Config"

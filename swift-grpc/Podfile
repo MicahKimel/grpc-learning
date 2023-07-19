@@ -1,0 +1,10 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '14.0'
+
+target 'swift-grpc' do
+
+  use_modular_headers!
+  pod 'gRPC-Swift'
+  pod 'gRPC-Swift-Plugins'
+
+end

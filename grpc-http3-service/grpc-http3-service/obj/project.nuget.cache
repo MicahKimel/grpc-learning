@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nwkuOAw18x9jI215iGg6nwaZf5hOpKzyDGwTJgTtTJg3679cK1oV0LFnmGXBZVrQ5m9vW2vsnVy0yy7bNAlq6w==",
+  "dgSpecHash": "GPpeDGhK2Pe5mhZIuLG7GdhGluP6/pIUKhrhmOdlcy347QsuoqyIi/5BpItHom6Aw/oEguaax1hUbs3VVm9g7Q==",
   "success": true,
-  "projectFilePath": "/Users/micahkimel/Projects/grpc-http3-service/grpc-http3-service/grpc-http3-service.csproj",
+  "projectFilePath": "/Users/micahkimel/Projects/grpc-learning/grpc-http3-service/grpc-http3-service/grpc-http3-service.csproj",
   "expectedPackageFiles": [
     "/Users/micahkimel/.nuget/packages/google.protobuf/3.21.5/google.protobuf.3.21.5.nupkg.sha512",
     "/Users/micahkimel/.nuget/packages/grpc.aspnetcore/2.49.0/grpc.aspnetcore.2.49.0.nupkg.sha512",
